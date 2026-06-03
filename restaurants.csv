@@ -1,0 +1,1001 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,"Chowdhury, Date and Gandhi",Indore,06:00AM to 24:00PM
+2,"Nadkarni, Tella and Raja",Delhi,08:00AM to 23:00PM
+3,Salvi-Merchant,Kolkata,06:00AM to 24:00PM
+4,"Doshi, Sahota and Wali",Mumbai,06:00AM to 23:00PM
+5,"Tak, Minhas and Dhar",Delhi,10:00AM to 21:00PM
+6,Bali-Narayan,Delhi,06:00AM to 24:00PM
+7,Chatterjee-Lala,Bangalore,10:00AM to 22:00PM
+8,Comar-Palan,Lucknow,08:00AM to 24:00PM
+9,Issac-Gupta,Ranchi,06:00AM to 24:00PM
+10,Banik-Halder,Mumbai,07:00AM to 22:00PM
+11,Kannan LLC,Chennai,10:00AM to 23:00PM
+12,Swamy LLC,Jaipur,08:00AM to 21:00PM
+13,Kumer and Sons,Ahmedabad,10:00AM to 24:00PM
+14,Mukhopadhyay Ltd,Chennai,09:00AM to 24:00PM
+15,Johal and Sons,Delhi,06:00AM to 21:00PM
+16,Bansal LLC,Ahmedabad,06:00AM to 23:00PM
+17,"Sabharwal, Agrawal and Kale",Ahmedabad,09:00AM to 23:00PM
+18,Mane-Sheth,Jaipur,09:00AM to 21:00PM
+19,Chaudhry-Misra,Pune,06:00AM to 24:00PM
+20,Chacko and Sons,Ahmedabad,09:00AM to 23:00PM
+21,"Majumdar, Khalsa and Nadig",Kolkata,07:00AM to 23:00PM
+22,"Padmanabhan, Varghese and Sinha",Indore,09:00AM to 23:00PM
+23,"Sura, Bath and Goswami",Chennai,08:00AM to 21:00PM
+24,Mangat Ltd,Ranchi,10:00AM to 23:00PM
+25,Hari PLC,Lucknow,06:00AM to 22:00PM
+26,Kaur Inc,Indore,08:00AM to 23:00PM
+27,Merchant-Reddy,Chennai,10:00AM to 24:00PM
+28,Deshpande PLC,Hyderabad,09:00AM to 24:00PM
+29,"Garde, Pai and Mallick",Chennai,09:00AM to 22:00PM
+30,"Bava, Nath and Dugar",Mumbai,07:00AM to 22:00PM
+31,Chawla-Datta,Pune,08:00AM to 24:00PM
+32,Nigam PLC,Ranchi,07:00AM to 23:00PM
+33,Mittal PLC,Mumbai,09:00AM to 23:00PM
+34,Johal and Sons,Jaipur,06:00AM to 23:00PM
+35,Chaudhry LLC,Pune,10:00AM to 24:00PM
+36,Suri and Sons,Daltonganj,09:00AM to 23:00PM
+37,Vig Inc,Daltonganj,08:00AM to 23:00PM
+38,Barman Inc,Ahmedabad,07:00AM to 23:00PM
+39,"Gandhi, Shan and Mitter",Ahmedabad,08:00AM to 24:00PM
+40,Kale Group,Ahmedabad,10:00AM to 22:00PM
+41,Setty-Pandey,Chennai,10:00AM to 24:00PM
+42,Kota-Munshi,Ahmedabad,10:00AM to 22:00PM
+43,Garg LLC,Mumbai,08:00AM to 21:00PM
+44,"Tak, Naik and Sunder",Kolkata,09:00AM to 21:00PM
+45,Bhattacharyya and Sons,Pune,08:00AM to 23:00PM
+46,Nadig-Oza,Lucknow,08:00AM to 24:00PM
+47,Badal-Lall,Bangalore,10:00AM to 21:00PM
+48,"Mani, Dave and Kota",Ahmedabad,10:00AM to 22:00PM
+49,"Hari, Sangha and Chaudry",Mumbai,10:00AM to 24:00PM
+50,D’Alia-Nigam,Delhi,10:00AM to 22:00PM
+51,"Chokshi, Kashyap and Chacko",Kolkata,06:00AM to 23:00PM
+52,"Bala, Vig and Swaminathan",Lucknow,10:00AM to 22:00PM
+53,Iyengar LLC,Jaipur,08:00AM to 24:00PM
+54,Sharma-Gala,Ranchi,09:00AM to 22:00PM
+55,"Vala, Chakrabarti and Kala",Bangalore,07:00AM to 24:00PM
+56,Mall Group,Ranchi,07:00AM to 23:00PM
+57,Wali-Trivedi,Jaipur,07:00AM to 22:00PM
+58,Puri-Sankar,Lucknow,07:00AM to 23:00PM
+59,"Nazareth, Tailor and Solanki",Hyderabad,10:00AM to 21:00PM
+60,"Jha, Kohli and De",Indore,09:00AM to 23:00PM
+61,Varghese-Rastogi,Indore,07:00AM to 23:00PM
+62,Gade-Palla,Hyderabad,06:00AM to 21:00PM
+63,"Kuruvilla, Dara and Shukla",Delhi,06:00AM to 23:00PM
+64,Ramaswamy-Balan,Delhi,07:00AM to 24:00PM
+65,Gara-Deshmukh,Jaipur,10:00AM to 23:00PM
+66,Divan-Arora,Hyderabad,07:00AM to 21:00PM
+67,"Kala, Devi and Borra",Mumbai,08:00AM to 22:00PM
+68,"Bahl, Nori and Bobal",Lucknow,10:00AM to 24:00PM
+69,Nagarajan Group,Chennai,07:00AM to 22:00PM
+70,Kade-Mallick,Jaipur,07:00AM to 23:00PM
+71,Yogi-Naidu,Pune,08:00AM to 23:00PM
+72,Dara-Kapadia,Delhi,10:00AM to 21:00PM
+73,Pal-Mital,Hyderabad,06:00AM to 23:00PM
+74,Jain-Ganguly,Ahmedabad,10:00AM to 24:00PM
+75,Sani and Sons,Jaipur,08:00AM to 21:00PM
+76,"Hans, Rege and Acharya",Chennai,06:00AM to 21:00PM
+77,Vohra-Dixit,Chennai,09:00AM to 24:00PM
+78,Jha and Sons,Indore,10:00AM to 21:00PM
+79,"Datta, Ratta and Shroff",Daltonganj,08:00AM to 24:00PM
+80,Agate Ltd,Jaipur,10:00AM to 23:00PM
+81,"Gill, Tailor and Jain",Hyderabad,08:00AM to 23:00PM
+82,"Pau, Gera and Warrior",Daltonganj,06:00AM to 21:00PM
+83,Wali-Rajagopal,Delhi,10:00AM to 23:00PM
+84,Bedi-Handa,Daltonganj,10:00AM to 23:00PM
+85,Ray-Bhardwaj,Lucknow,10:00AM to 23:00PM
+86,Kaul Group,Kolkata,06:00AM to 23:00PM
+87,Zacharia LLC,Delhi,10:00AM to 23:00PM
+88,"Baria, Nazareth and Walia",Kolkata,06:00AM to 22:00PM
+89,Goel-Jayaraman,Lucknow,10:00AM to 21:00PM
+90,Sahota-Chowdhury,Lucknow,09:00AM to 22:00PM
+91,Kadakia-Patla,Daltonganj,07:00AM to 22:00PM
+92,"Subramaniam, Peri and Mangat",Indore,10:00AM to 21:00PM
+93,Jha Group,Kolkata,08:00AM to 21:00PM
+94,Bains-Mani,Bangalore,10:00AM to 21:00PM
+95,Salvi Inc,Ranchi,08:00AM to 23:00PM
+96,"Sekhon, Singhal and Varkey",Lucknow,06:00AM to 22:00PM
+97,Ranganathan-Sachdev,Delhi,09:00AM to 21:00PM
+98,"Parmer, Vyas and Nair",Delhi,06:00AM to 21:00PM
+99,Amble Inc,Kolkata,08:00AM to 23:00PM
+100,"Bhandari, Ratti and Mitter",Chennai,08:00AM to 21:00PM
+101,Borde Ltd,Ahmedabad,10:00AM to 24:00PM
+102,Mall-Rattan,Lucknow,10:00AM to 22:00PM
+103,"Shetty, Deol and Lad",Delhi,07:00AM to 21:00PM
+104,"Choudhary, Raju and Deo",Mumbai,08:00AM to 22:00PM
+105,"Chad, Sahni and Mani",Mumbai,08:00AM to 21:00PM
+106,Dani Ltd,Daltonganj,06:00AM to 23:00PM
+107,"Lad, Narasimhan and Sur",Pune,08:00AM to 23:00PM
+108,Minhas and Sons,Lucknow,06:00AM to 21:00PM
+109,"Sankar, Gade and Bala",Ranchi,08:00AM to 21:00PM
+110,Bhavsar-Bhardwaj,Daltonganj,07:00AM to 23:00PM
+111,"Bhatnagar, Choudhury and Wason",Jaipur,10:00AM to 22:00PM
+112,Barad and Sons,Chennai,09:00AM to 22:00PM
+113,Shroff LLC,Chennai,10:00AM to 24:00PM
+114,"Pal, Sandal and Randhawa",Chennai,09:00AM to 24:00PM
+115,Kalita-Sule,Indore,06:00AM to 21:00PM
+116,Kohli-Vig,Bangalore,07:00AM to 24:00PM
+117,Verma Inc,Lucknow,06:00AM to 21:00PM
+118,"Cheema, Prasad and Nadkarni",Chennai,07:00AM to 23:00PM
+119,Madan Group,Delhi,09:00AM to 22:00PM
+120,Sharaf-Hari,Delhi,10:00AM to 21:00PM
+121,Upadhyay Inc,Pune,06:00AM to 24:00PM
+122,Sem PLC,Mumbai,09:00AM to 23:00PM
+123,"Oommen, Mohanty and Master",Pune,07:00AM to 21:00PM
+124,"Sangha, Barad and Natarajan",Pune,07:00AM to 21:00PM
+125,Ramaswamy-Viswanathan,Ahmedabad,09:00AM to 23:00PM
+126,Bhavsar-Ganguly,Ranchi,09:00AM to 24:00PM
+127,Kapadia-Iyer,Mumbai,07:00AM to 21:00PM
+128,Varkey-Sur,Ahmedabad,08:00AM to 23:00PM
+129,Borde-Mohanty,Ahmedabad,10:00AM to 22:00PM
+130,"Dara, Bobal and Kapur",Lucknow,10:00AM to 21:00PM
+131,"Arora, Bora and Sawhney",Jaipur,08:00AM to 21:00PM
+132,Chaudhari and Sons,Bangalore,10:00AM to 21:00PM
+133,"Murthy, Ram and Sagar",Jaipur,08:00AM to 23:00PM
+134,Muni Group,Pune,07:00AM to 21:00PM
+135,Setty Group,Lucknow,08:00AM to 23:00PM
+136,Ramakrishnan LLC,Delhi,08:00AM to 24:00PM
+137,Grewal LLC,Jaipur,09:00AM to 22:00PM
+138,Dhawan LLC,Lucknow,09:00AM to 21:00PM
+139,Gandhi and Sons,Lucknow,10:00AM to 24:00PM
+140,"Bajwa, Viswanathan and Rao",Bangalore,09:00AM to 24:00PM
+141,Sekhon-Dass,Ranchi,09:00AM to 21:00PM
+142,"Kata, Gole and Balay",Lucknow,06:00AM to 24:00PM
+143,Sampath Inc,Hyderabad,10:00AM to 23:00PM
+144,Shenoy Group,Kolkata,09:00AM to 24:00PM
+145,Palla LLC,Ahmedabad,08:00AM to 23:00PM
+146,Sachar-Dhawan,Delhi,09:00AM to 22:00PM
+147,Sura-Mannan,Bangalore,09:00AM to 24:00PM
+148,"Vyas, Salvi and Tata",Ranchi,09:00AM to 21:00PM
+149,Halder and Sons,Delhi,06:00AM to 23:00PM
+150,Ganesh Group,Bangalore,08:00AM to 21:00PM
+151,"Vaidya, Yohannan and Chakrabarti",Lucknow,08:00AM to 22:00PM
+152,Narain and Sons,Ahmedabad,07:00AM to 22:00PM
+153,Hari Ltd,Ranchi,10:00AM to 21:00PM
+154,Om-Chaudhuri,Kolkata,09:00AM to 23:00PM
+155,"Kara, Chandra and Murty",Jaipur,07:00AM to 23:00PM
+156,Sachdev PLC,Jaipur,10:00AM to 24:00PM
+157,"Sen, Kibe and Saini",Chennai,10:00AM to 21:00PM
+158,Loyal-Krish,Ranchi,09:00AM to 23:00PM
+159,"Kanda, Dey and Kara",Indore,07:00AM to 21:00PM
+160,Walla-Iyengar,Kolkata,10:00AM to 22:00PM
+161,"Gupta, Taneja and Dhillon",Delhi,07:00AM to 24:00PM
+162,"Kibe, Biswas and Ahuja",Jaipur,06:00AM to 23:00PM
+163,Aggarwal-Mannan,Jaipur,06:00AM to 23:00PM
+164,Dutta LLC,Daltonganj,07:00AM to 23:00PM
+165,Balasubramanian Group,Ranchi,08:00AM to 21:00PM
+166,"Cherian, Saini and Hans",Hyderabad,07:00AM to 24:00PM
+167,"Narain, Khosla and Sane",Pune,07:00AM to 24:00PM
+168,Sarin-Nadig,Kolkata,10:00AM to 21:00PM
+169,"Gour, Mani and Palla",Mumbai,07:00AM to 24:00PM
+170,Sharma PLC,Daltonganj,06:00AM to 21:00PM
+171,Chauhan-Comar,Ahmedabad,07:00AM to 21:00PM
+172,Kumar-Raman,Ranchi,08:00AM to 22:00PM
+173,"Kaul, Sood and Karpe",Pune,06:00AM to 23:00PM
+174,"Mandal, Chaudhuri and Singh",Ranchi,08:00AM to 24:00PM
+175,Arya LLC,Bangalore,08:00AM to 21:00PM
+176,Kalla-Raja,Ahmedabad,06:00AM to 22:00PM
+177,"Dixit, Borah and Nagi",Pune,09:00AM to 22:00PM
+178,"Chhabra, Chatterjee and Oommen",Jaipur,07:00AM to 23:00PM
+179,"Gandhi, Keer and Mangat",Jaipur,06:00AM to 21:00PM
+180,"Vasa, Warrior and Dewan",Chennai,07:00AM to 23:00PM
+181,Pall-Mody,Ranchi,06:00AM to 22:00PM
+182,"Edwin, Saraf and Shanker",Daltonganj,07:00AM to 21:00PM
+183,Bandi-Sidhu,Ahmedabad,07:00AM to 23:00PM
+184,Rama-Patla,Indore,06:00AM to 23:00PM
+185,Srinivasan LLC,Jaipur,06:00AM to 21:00PM
+186,Dass-Badami,Mumbai,09:00AM to 22:00PM
+187,Soni-Aurora,Chennai,07:00AM to 23:00PM
+188,"Pal, Pathak and Deshpande",Jaipur,07:00AM to 24:00PM
+189,"Kohli, Arya and Choudhury",Ranchi,08:00AM to 24:00PM
+190,"Chanda, Ahluwalia and Dube",Ahmedabad,07:00AM to 23:00PM
+191,Bal and Sons,Mumbai,08:00AM to 23:00PM
+192,Mander and Sons,Indore,07:00AM to 23:00PM
+193,Dubey-Tank,Delhi,07:00AM to 21:00PM
+194,Goel-Chaudhari,Indore,09:00AM to 21:00PM
+195,Pandey Ltd,Ahmedabad,07:00AM to 23:00PM
+196,Krishnamurthy Ltd,Jaipur,07:00AM to 23:00PM
+197,Mangal-Sunder,Bangalore,07:00AM to 22:00PM
+198,Mandal and Sons,Mumbai,09:00AM to 22:00PM
+199,Murty-Wadhwa,Daltonganj,07:00AM to 23:00PM
+200,Soni Ltd,Pune,09:00AM to 22:00PM
+201,"Bhatti, Sahni and Tandon",Ranchi,10:00AM to 24:00PM
+202,Raj-Khalsa,Kolkata,10:00AM to 21:00PM
+203,"Kala, Biswas and De",Jaipur,09:00AM to 22:00PM
+204,"Bhatt, Sani and Gara",Jaipur,09:00AM to 23:00PM
+205,"Saha, Subramaniam and Sandal",Jaipur,10:00AM to 24:00PM
+206,Mann Inc,Lucknow,07:00AM to 21:00PM
+207,"Datta, Patla and Naik",Jaipur,09:00AM to 21:00PM
+208,Subramanian Ltd,Indore,06:00AM to 22:00PM
+209,Gera-Kaur,Hyderabad,06:00AM to 24:00PM
+210,Acharya PLC,Chennai,10:00AM to 23:00PM
+211,Murty-Sunder,Indore,10:00AM to 24:00PM
+212,"Uppal, Bassi and Gala",Lucknow,07:00AM to 24:00PM
+213,"Sankar, Oommen and Dubey",Chennai,10:00AM to 21:00PM
+214,Ghosh Group,Jaipur,10:00AM to 22:00PM
+215,"Pathak, Pant and Ganesh",Kolkata,10:00AM to 22:00PM
+216,"Bir, Kibe and Gokhale",Ahmedabad,06:00AM to 23:00PM
+217,Dey and Sons,Kolkata,10:00AM to 21:00PM
+218,"Chadha, Patla and Dar",Chennai,09:00AM to 21:00PM
+219,Manne-Khalsa,Delhi,08:00AM to 21:00PM
+220,"Sodhi, Panchal and Shenoy",Hyderabad,09:00AM to 21:00PM
+221,Dey PLC,Ahmedabad,09:00AM to 24:00PM
+222,Nagy Inc,Mumbai,07:00AM to 21:00PM
+223,"Lad, Lad and Kanda",Bangalore,09:00AM to 22:00PM
+224,Panchal-Dubey,Jaipur,08:00AM to 23:00PM
+225,Guha-Gulati,Daltonganj,08:00AM to 23:00PM
+226,Kohli-Khalsa,Jaipur,07:00AM to 22:00PM
+227,Rao LLC,Kolkata,10:00AM to 23:00PM
+228,Lall-Balakrishnan,Bangalore,07:00AM to 22:00PM
+229,Deep-Ganesan,Pune,10:00AM to 23:00PM
+230,Chaudhari Ltd,Daltonganj,08:00AM to 21:00PM
+231,"Agarwal, Gulati and Uppal",Mumbai,06:00AM to 22:00PM
+232,"Borah, Chopra and Gill",Kolkata,07:00AM to 23:00PM
+233,"Arora, Naik and Munshi",Hyderabad,06:00AM to 24:00PM
+234,Banerjee-Mandal,Chennai,07:00AM to 23:00PM
+235,Raju Group,Delhi,09:00AM to 23:00PM
+236,"Arora, Hari and Uppal",Bangalore,08:00AM to 23:00PM
+237,Kade Group,Bangalore,06:00AM to 24:00PM
+238,"Zachariah, Shah and Sandhu",Kolkata,09:00AM to 23:00PM
+239,Sodhi Ltd,Hyderabad,09:00AM to 22:00PM
+240,Mann Inc,Hyderabad,06:00AM to 23:00PM
+241,"Thakur, Dara and Solanki",Jaipur,07:00AM to 24:00PM
+242,"Sura, Krishnan and Magar",Kolkata,07:00AM to 22:00PM
+243,"Kohli, Ganesan and Walia",Kolkata,06:00AM to 21:00PM
+244,Sur Ltd,Chennai,06:00AM to 21:00PM
+245,"Dora, Chaudhari and Ganguly",Bangalore,07:00AM to 24:00PM
+246,Gola LLC,Indore,06:00AM to 24:00PM
+247,Kalita-Char,Lucknow,10:00AM to 22:00PM
+248,Prabhakar PLC,Kolkata,06:00AM to 22:00PM
+249,Sachdev Inc,Indore,09:00AM to 24:00PM
+250,"Bath, Bhalla and Tella",Daltonganj,10:00AM to 24:00PM
+251,Kunda-Gokhale,Delhi,09:00AM to 23:00PM
+252,Ramachandran-Rama,Bangalore,06:00AM to 21:00PM
+253,Sampath-Magar,Daltonganj,09:00AM to 22:00PM
+254,Jain-Sidhu,Jaipur,07:00AM to 22:00PM
+255,Sinha-Vala,Hyderabad,08:00AM to 21:00PM
+256,Boase Inc,Chennai,07:00AM to 21:00PM
+257,Johal-Gola,Ranchi,07:00AM to 23:00PM
+258,Khare-Anne,Lucknow,09:00AM to 24:00PM
+259,Rajagopal-Mohanty,Bangalore,07:00AM to 22:00PM
+260,"Deol, Nagy and Saran",Delhi,08:00AM to 22:00PM
+261,Sankaran-Ghosh,Bangalore,10:00AM to 23:00PM
+262,"Kaur, Ramakrishnan and Mohan",Indore,07:00AM to 23:00PM
+263,Sami-Chopra,Chennai,07:00AM to 22:00PM
+264,Raman-Kata,Chennai,10:00AM to 24:00PM
+265,Menon LLC,Pune,09:00AM to 23:00PM
+266,Sachdeva-Goyal,Kolkata,10:00AM to 24:00PM
+267,Deshpande-Sinha,Mumbai,08:00AM to 22:00PM
+268,Deol Group,Ranchi,07:00AM to 22:00PM
+269,Pillay-Kar,Lucknow,08:00AM to 23:00PM
+270,"Goel, Sabharwal and Varma",Mumbai,07:00AM to 22:00PM
+271,"Goswami, Bir and Ganesh",Delhi,07:00AM to 21:00PM
+272,Narasimhan-Mammen,Ranchi,09:00AM to 21:00PM
+273,Gala Group,Lucknow,07:00AM to 23:00PM
+274,"Sen, Sami and Soman",Daltonganj,06:00AM to 22:00PM
+275,Balan Inc,Delhi,07:00AM to 23:00PM
+276,Chopra and Sons,Pune,10:00AM to 24:00PM
+277,"Suresh, Sarkar and Bhakta",Hyderabad,09:00AM to 24:00PM
+278,"Bava, Misra and Upadhyay",Hyderabad,07:00AM to 22:00PM
+279,Venkataraman PLC,Ranchi,08:00AM to 23:00PM
+280,"Garg, Issac and Vaidya",Mumbai,06:00AM to 22:00PM
+281,"Chandran, Krishna and Bandi",Jaipur,07:00AM to 21:00PM
+282,Barad-Biswas,Hyderabad,07:00AM to 21:00PM
+283,Gala-Hari,Bangalore,06:00AM to 21:00PM
+284,Khatri Ltd,Ahmedabad,06:00AM to 21:00PM
+285,Verma and Sons,Indore,08:00AM to 22:00PM
+286,Nori LLC,Daltonganj,10:00AM to 24:00PM
+287,Din Ltd,Lucknow,07:00AM to 23:00PM
+288,Bains-Mittal,Ahmedabad,08:00AM to 21:00PM
+289,"Sachdev, Sankaran and Johal",Mumbai,09:00AM to 23:00PM
+290,Ravi-Basak,Delhi,06:00AM to 23:00PM
+291,"Kamdar, Bansal and Dalal",Daltonganj,07:00AM to 21:00PM
+292,"Misra, Sahota and Mahajan",Jaipur,07:00AM to 23:00PM
+293,"Anne, Rajagopal and Kashyap",Delhi,07:00AM to 22:00PM
+294,"Contractor, Din and Chadha",Kolkata,07:00AM to 22:00PM
+295,"Bir, Shenoy and Cheema",Daltonganj,09:00AM to 22:00PM
+296,Mohanty-Bose,Hyderabad,08:00AM to 22:00PM
+297,"Boase, Chada and Ray",Indore,08:00AM to 21:00PM
+298,"Varughese, Dhingra and Hans",Bangalore,09:00AM to 24:00PM
+299,Ahluwalia-Shan,Hyderabad,08:00AM to 21:00PM
+300,Vora-Ratti,Delhi,07:00AM to 22:00PM
+301,Sarna PLC,Kolkata,06:00AM to 21:00PM
+302,Raval-Handa,Daltonganj,08:00AM to 22:00PM
+303,Lall and Sons,Chennai,07:00AM to 23:00PM
+304,Deo-Sinha,Pune,10:00AM to 24:00PM
+305,Saran LLC,Delhi,06:00AM to 24:00PM
+306,Kale-Lata,Hyderabad,08:00AM to 22:00PM
+307,"Murty, Acharya and Patil",Daltonganj,07:00AM to 23:00PM
+308,Gill Group,Bangalore,06:00AM to 24:00PM
+309,Dua-Pall,Ranchi,06:00AM to 24:00PM
+310,"Narayan, Char and Sekhon",Indore,09:00AM to 21:00PM
+311,"Kara, Sen and Ghose",Jaipur,08:00AM to 24:00PM
+312,Bhat-Viswanathan,Bangalore,08:00AM to 24:00PM
+313,"Sankar, Sane and Dugal",Jaipur,09:00AM to 24:00PM
+314,"Singhal, Singh and Jani",Bangalore,08:00AM to 24:00PM
+315,"Chaudhari, Zachariah and Bhatti",Bangalore,06:00AM to 22:00PM
+316,"Tandon, Randhawa and Behl",Hyderabad,06:00AM to 22:00PM
+317,"Suresh, Mohan and Saha",Chennai,08:00AM to 22:00PM
+318,Nagi Group,Pune,10:00AM to 21:00PM
+319,Majumdar Ltd,Delhi,10:00AM to 21:00PM
+320,Wable-Brar,Mumbai,10:00AM to 21:00PM
+321,"Sunder, Sidhu and Sarin",Mumbai,07:00AM to 21:00PM
+322,Datta-Soman,Ranchi,07:00AM to 21:00PM
+323,Rai-Jhaveri,Hyderabad,06:00AM to 23:00PM
+324,Deshpande Group,Ahmedabad,09:00AM to 21:00PM
+325,"Verma, Dalal and Jayaraman",Indore,07:00AM to 23:00PM
+326,"Iyengar, Borah and Sarma",Mumbai,07:00AM to 24:00PM
+327,Saha-Chhabra,Mumbai,10:00AM to 23:00PM
+328,Date-Kaur,Jaipur,10:00AM to 23:00PM
+329,Shukla-Bajwa,Delhi,10:00AM to 22:00PM
+330,"Sane, Mani and Nazareth",Delhi,08:00AM to 23:00PM
+331,Buch-Narula,Chennai,10:00AM to 24:00PM
+332,Krishnan-Raghavan,Hyderabad,10:00AM to 23:00PM
+333,Tella Inc,Pune,07:00AM to 21:00PM
+334,"Kar, Panchal and Memon",Ranchi,08:00AM to 23:00PM
+335,Amble-Sunder,Daltonganj,09:00AM to 22:00PM
+336,"Cheema, Choudhry and Natarajan",Indore,09:00AM to 22:00PM
+337,Shere Inc,Ahmedabad,08:00AM to 24:00PM
+338,"Kumer, Mangat and Peri",Delhi,10:00AM to 22:00PM
+339,"Wadhwa, Chokshi and Sankar",Kolkata,07:00AM to 22:00PM
+340,Wagle-Devan,Jaipur,09:00AM to 24:00PM
+341,"Bora, Kannan and Dasgupta",Indore,10:00AM to 22:00PM
+342,Bhargava-Hans,Chennai,06:00AM to 24:00PM
+343,"Bahri, Lanka and Bhatnagar",Mumbai,09:00AM to 21:00PM
+344,Viswanathan PLC,Hyderabad,06:00AM to 22:00PM
+345,Khanna PLC,Lucknow,06:00AM to 21:00PM
+346,Chad-Naidu,Chennai,09:00AM to 24:00PM
+347,Swamy and Sons,Daltonganj,07:00AM to 22:00PM
+348,Sodhi and Sons,Ahmedabad,09:00AM to 22:00PM
+349,Salvi-Narayan,Bangalore,09:00AM to 23:00PM
+350,"Srinivas, Din and Das",Bangalore,10:00AM to 22:00PM
+351,"Kamdar, Peri and Oak",Ahmedabad,10:00AM to 22:00PM
+352,"Prabhu, Peri and Dash",Daltonganj,08:00AM to 24:00PM
+353,Kalita-Mallick,Bangalore,06:00AM to 21:00PM
+354,Kara-Zacharia,Bangalore,06:00AM to 23:00PM
+355,Tandon and Sons,Hyderabad,07:00AM to 22:00PM
+356,"Kurian, Madan and Rajagopalan",Kolkata,10:00AM to 24:00PM
+357,"Korpal, Guha and Bir",Indore,08:00AM to 22:00PM
+358,Kapadia Inc,Chennai,08:00AM to 21:00PM
+359,Sankaran Inc,Chennai,09:00AM to 21:00PM
+360,Deep-Dash,Ranchi,07:00AM to 22:00PM
+361,Nayar LLC,Ahmedabad,08:00AM to 23:00PM
+362,Naik LLC,Kolkata,08:00AM to 22:00PM
+363,Mangat Inc,Jaipur,07:00AM to 23:00PM
+364,Gaba-Joshi,Ranchi,06:00AM to 21:00PM
+365,Dey and Sons,Kolkata,07:00AM to 24:00PM
+366,Keer-Goswami,Chennai,10:00AM to 24:00PM
+367,Sandhu Inc,Mumbai,09:00AM to 23:00PM
+368,Gopal Ltd,Bangalore,06:00AM to 22:00PM
+369,Kumar PLC,Chennai,10:00AM to 21:00PM
+370,Kale-Walia,Daltonganj,07:00AM to 22:00PM
+371,"Kale, Mutti and Shah",Ahmedabad,10:00AM to 21:00PM
+372,Rama-Ramanathan,Chennai,08:00AM to 22:00PM
+373,"Chakraborty, Wali and Deshmukh",Kolkata,09:00AM to 22:00PM
+374,Chacko-Aurora,Jaipur,07:00AM to 22:00PM
+375,Jhaveri Inc,Ahmedabad,07:00AM to 22:00PM
+376,Vasa LLC,Ranchi,10:00AM to 24:00PM
+377,"Nanda, Sanghvi and Bumb",Jaipur,09:00AM to 22:00PM
+378,Doshi Inc,Chennai,08:00AM to 24:00PM
+379,Bail-Kunda,Indore,09:00AM to 22:00PM
+380,Soman Group,Bangalore,06:00AM to 22:00PM
+381,"Dey, Nigam and Divan",Ahmedabad,08:00AM to 23:00PM
+382,Varkey-Mutti,Pune,06:00AM to 21:00PM
+383,"Madan, Mallick and Sinha",Jaipur,07:00AM to 24:00PM
+384,Sarin-Swaminathan,Indore,07:00AM to 22:00PM
+385,Hora PLC,Chennai,10:00AM to 21:00PM
+386,"Sabharwal, Ratta and Khanna",Ranchi,08:00AM to 21:00PM
+387,Sundaram-Bose,Jaipur,06:00AM to 23:00PM
+388,Varughese-Krish,Hyderabad,06:00AM to 22:00PM
+389,Sane-Mand,Daltonganj,09:00AM to 24:00PM
+390,Mallick-Ravel,Ahmedabad,09:00AM to 22:00PM
+391,Raman Inc,Delhi,08:00AM to 21:00PM
+392,Ratti-Sen,Hyderabad,10:00AM to 24:00PM
+393,Raghavan and Sons,Delhi,10:00AM to 21:00PM
+394,Choudhary PLC,Pune,08:00AM to 21:00PM
+395,Anand-Kaul,Daltonganj,09:00AM to 24:00PM
+396,Swamy-Sastry,Pune,10:00AM to 22:00PM
+397,Jaggi-Palla,Pune,08:00AM to 21:00PM
+398,Nadig and Sons,Bangalore,07:00AM to 24:00PM
+399,Mahal Group,Bangalore,09:00AM to 23:00PM
+400,Cherian-Palan,Indore,10:00AM to 23:00PM
+401,"Sodhi, Chopra and Sinha",Kolkata,08:00AM to 24:00PM
+402,"Dora, Patla and Mohanty",Ahmedabad,06:00AM to 21:00PM
+403,"Char, Sachdev and Dayal",Mumbai,06:00AM to 22:00PM
+404,Shah-Lall,Jaipur,10:00AM to 23:00PM
+405,Nagar-Saxena,Mumbai,06:00AM to 21:00PM
+406,Basu LLC,Delhi,10:00AM to 21:00PM
+407,Rau LLC,Ranchi,07:00AM to 21:00PM
+408,"Mitra, Wadhwa and Sethi",Jaipur,10:00AM to 21:00PM
+409,"Verma, Khare and Parmer",Ahmedabad,07:00AM to 22:00PM
+410,Barad-Pai,Lucknow,08:00AM to 23:00PM
+411,Dara-Ravel,Ranchi,10:00AM to 23:00PM
+412,Borra-Gola,Jaipur,09:00AM to 22:00PM
+413,"Amble, Sehgal and Hora",Chennai,10:00AM to 24:00PM
+414,Bora PLC,Chennai,10:00AM to 21:00PM
+415,Shetty-Bhatti,Indore,09:00AM to 22:00PM
+416,Dara-Radhakrishnan,Delhi,08:00AM to 21:00PM
+417,Barad-Mann,Delhi,06:00AM to 23:00PM
+418,"Choudhary, Acharya and Srinivasan",Indore,08:00AM to 21:00PM
+419,Pingle-Pillay,Hyderabad,08:00AM to 22:00PM
+420,Bala-Chadha,Delhi,09:00AM to 24:00PM
+421,Butala Ltd,Chennai,10:00AM to 24:00PM
+422,Sankar-Kala,Kolkata,06:00AM to 23:00PM
+423,"Chandra, Chokshi and Basak",Daltonganj,10:00AM to 23:00PM
+424,Gera Ltd,Pune,09:00AM to 23:00PM
+425,Borra-Chand,Mumbai,08:00AM to 22:00PM
+426,Babu LLC,Daltonganj,10:00AM to 22:00PM
+427,Thaman-Das,Chennai,08:00AM to 21:00PM
+428,"Desai, Goel and Nori",Hyderabad,09:00AM to 23:00PM
+429,"Suri, Dani and Thaman",Pune,06:00AM to 21:00PM
+430,Wadhwa LLC,Delhi,06:00AM to 22:00PM
+431,"Malhotra, Ganguly and Tata",Delhi,07:00AM to 21:00PM
+432,Nagar Inc,Pune,08:00AM to 21:00PM
+433,"Sidhu, Venkataraman and Chakraborty",Delhi,09:00AM to 21:00PM
+434,Biswas Group,Mumbai,08:00AM to 21:00PM
+435,"Mital, Chaudhuri and Char",Chennai,08:00AM to 24:00PM
+436,"Kara, Bhavsar and Jain",Kolkata,10:00AM to 23:00PM
+437,Bhat Group,Ranchi,07:00AM to 21:00PM
+438,Khatri-Behl,Kolkata,10:00AM to 22:00PM
+439,Sane-Tank,Ranchi,08:00AM to 21:00PM
+440,Rajagopal and Sons,Hyderabad,09:00AM to 21:00PM
+441,"Pandit, Verma and Sabharwal",Jaipur,07:00AM to 21:00PM
+442,Shere Group,Indore,10:00AM to 24:00PM
+443,"Pillai, Baral and Bala",Ahmedabad,10:00AM to 22:00PM
+444,Deep and Sons,Pune,06:00AM to 23:00PM
+445,Bhagat-Warrior,Ranchi,09:00AM to 21:00PM
+446,"Bora, Radhakrishnan and Rau",Mumbai,07:00AM to 23:00PM
+447,"Dara, Ranganathan and Varghese",Kolkata,09:00AM to 23:00PM
+448,"Gupta, Jaggi and Talwar",Ranchi,10:00AM to 21:00PM
+449,Kar-Raghavan,Indore,10:00AM to 23:00PM
+450,Pandya Inc,Hyderabad,10:00AM to 21:00PM
+451,Srinivas-Parsa,Ranchi,09:00AM to 21:00PM
+452,"Iyengar, Cherian and Kata",Hyderabad,08:00AM to 22:00PM
+453,Gopal-Saini,Hyderabad,07:00AM to 23:00PM
+454,"Doshi, Raj and Tandon",Daltonganj,07:00AM to 22:00PM
+455,Rattan Ltd,Indore,08:00AM to 22:00PM
+456,Bawa-Narayan,Daltonganj,09:00AM to 24:00PM
+457,Chopra Ltd,Daltonganj,06:00AM to 24:00PM
+458,Manne-Choudhury,Kolkata,06:00AM to 24:00PM
+459,"Johal, Parikh and Narula",Ahmedabad,08:00AM to 24:00PM
+460,"Desai, Sanghvi and Kohli",Ahmedabad,07:00AM to 22:00PM
+461,Luthra-Bansal,Hyderabad,10:00AM to 21:00PM
+462,Lalla-Oza,Bangalore,09:00AM to 24:00PM
+463,Nayak-Ratta,Kolkata,07:00AM to 23:00PM
+464,"Vig, Ram and Sibal",Mumbai,06:00AM to 22:00PM
+465,Manda Group,Indore,08:00AM to 24:00PM
+466,"Wagle, Deshmukh and Pandit",Jaipur,10:00AM to 21:00PM
+467,Kumer-Mand,Ranchi,09:00AM to 24:00PM
+468,Sani-Kashyap,Daltonganj,09:00AM to 22:00PM
+469,"Menon, Anne and Khanna",Kolkata,09:00AM to 23:00PM
+470,"Karan, Bedi and Sridhar",Pune,06:00AM to 23:00PM
+471,Madan-Grover,Indore,07:00AM to 23:00PM
+472,Sibal-Andra,Jaipur,08:00AM to 21:00PM
+473,Cheema-Mital,Lucknow,08:00AM to 23:00PM
+474,"Chaudhry, Behl and Hayre",Hyderabad,07:00AM to 24:00PM
+475,"Chakraborty, Borah and Raval",Daltonganj,07:00AM to 22:00PM
+476,"Kapadia, Kant and Manda",Pune,06:00AM to 21:00PM
+477,Goda-Rana,Kolkata,06:00AM to 23:00PM
+478,Kumer and Sons,Lucknow,10:00AM to 22:00PM
+479,Keer LLC,Pune,06:00AM to 24:00PM
+480,"Bhavsar, Sharma and Dugar",Daltonganj,10:00AM to 21:00PM
+481,Shroff-Naidu,Jaipur,08:00AM to 23:00PM
+482,Madan-Vaidya,Lucknow,10:00AM to 22:00PM
+483,Manda-Chaudhari,Indore,06:00AM to 23:00PM
+484,Ganguly-Sridhar,Lucknow,06:00AM to 22:00PM
+485,Chanda and Sons,Mumbai,09:00AM to 22:00PM
+486,Butala-Chand,Kolkata,07:00AM to 23:00PM
+487,"Raman, Chauhan and Ganesan",Hyderabad,07:00AM to 23:00PM
+488,"Kata, Sachdev and Bhatnagar",Kolkata,09:00AM to 24:00PM
+489,"Jayaraman, Kadakia and Narula",Chennai,07:00AM to 23:00PM
+490,Dave-Warrior,Chennai,07:00AM to 22:00PM
+491,"Dave, Venkataraman and Sangha",Mumbai,06:00AM to 24:00PM
+492,"Subramaniam, Nayak and Sant",Mumbai,09:00AM to 23:00PM
+493,Kata-Ramanathan,Ahmedabad,08:00AM to 22:00PM
+494,Dhawan Group,Chennai,08:00AM to 23:00PM
+495,Brar and Sons,Lucknow,08:00AM to 23:00PM
+496,Ghose Group,Kolkata,06:00AM to 22:00PM
+497,Soni-Mittal,Lucknow,08:00AM to 21:00PM
+498,Joshi-Lad,Hyderabad,07:00AM to 22:00PM
+499,Pathak-Bhakta,Bangalore,09:00AM to 23:00PM
+500,D’Alia LLC,Chennai,09:00AM to 23:00PM
+501,"Sur, Sachdev and Dube",Pune,09:00AM to 22:00PM
+502,Jhaveri Group,Indore,06:00AM to 23:00PM
+503,Jani and Sons,Mumbai,07:00AM to 21:00PM
+504,Shan Inc,Daltonganj,08:00AM to 22:00PM
+505,"Palan, Vasa and Lata",Lucknow,10:00AM to 23:00PM
+506,Karan-Sheth,Kolkata,09:00AM to 24:00PM
+507,Majumdar-Karpe,Ranchi,08:00AM to 22:00PM
+508,"Sengupta, Mani and Chad",Ahmedabad,10:00AM to 23:00PM
+509,Sengupta Inc,Pune,07:00AM to 22:00PM
+510,Kumer Group,Jaipur,10:00AM to 23:00PM
+511,Shukla LLC,Daltonganj,07:00AM to 21:00PM
+512,Ranganathan-Kashyap,Ahmedabad,08:00AM to 22:00PM
+513,"Upadhyay, Bera and Rana",Delhi,08:00AM to 21:00PM
+514,Tripathi-Ghosh,Delhi,09:00AM to 24:00PM
+515,"Ratti, Bhavsar and Bhatt",Daltonganj,06:00AM to 22:00PM
+516,Savant-Savant,Kolkata,07:00AM to 24:00PM
+517,"Arora, Mangat and Sen",Jaipur,09:00AM to 24:00PM
+518,"Mann, Rajagopal and Sane",Kolkata,09:00AM to 23:00PM
+519,"Som, Apte and Chandran",Chennai,10:00AM to 23:00PM
+520,"Dyal, Rama and Gola",Lucknow,09:00AM to 24:00PM
+521,Jain-Gola,Pune,09:00AM to 21:00PM
+522,"Gara, Anne and Dasgupta",Bangalore,10:00AM to 24:00PM
+523,"Palan, Brahmbhatt and Balan",Pune,10:00AM to 24:00PM
+524,"Chaudhary, Krishnamurthy and Ranganathan",Kolkata,10:00AM to 22:00PM
+525,Vyas Ltd,Ranchi,10:00AM to 24:00PM
+526,"Viswanathan, Bhandari and Mammen",Indore,06:00AM to 24:00PM
+527,"Ray, Balakrishnan and Tak",Mumbai,06:00AM to 24:00PM
+528,Pingle Group,Kolkata,10:00AM to 22:00PM
+529,Mittal Ltd,Lucknow,08:00AM to 23:00PM
+530,Chaudhry-Saini,Ahmedabad,10:00AM to 24:00PM
+531,"Salvi, Cheema and Mannan",Kolkata,09:00AM to 22:00PM
+532,"Rattan, Bhatnagar and Halder",Ahmedabad,07:00AM to 24:00PM
+533,"Bath, Shere and Bassi",Delhi,09:00AM to 24:00PM
+534,Saxena Group,Ranchi,10:00AM to 24:00PM
+535,Grover-Grewal,Indore,06:00AM to 23:00PM
+536,Chanda-Dash,Kolkata,10:00AM to 24:00PM
+537,Kumar-Nori,Ranchi,08:00AM to 24:00PM
+538,Dugal-Kapadia,Jaipur,08:00AM to 23:00PM
+539,Varghese-Gera,Delhi,06:00AM to 21:00PM
+540,Rana Ltd,Hyderabad,07:00AM to 23:00PM
+541,Srivastava-Ravel,Pune,09:00AM to 23:00PM
+542,Basak-Lala,Lucknow,06:00AM to 21:00PM
+543,"D’Alia, Rai and Mandal",Delhi,07:00AM to 24:00PM
+544,Dugar Ltd,Kolkata,08:00AM to 23:00PM
+545,Bahri-Mandal,Ranchi,06:00AM to 23:00PM
+546,"Dubey, Mall and Suri",Bangalore,07:00AM to 24:00PM
+547,"Wali, Shankar and Viswanathan",Bangalore,10:00AM to 22:00PM
+548,Koshy Inc,Hyderabad,08:00AM to 22:00PM
+549,Yohannan and Sons,Mumbai,08:00AM to 22:00PM
+550,Natarajan-Swamy,Lucknow,09:00AM to 23:00PM
+551,"Dhingra, Narula and Chauhan",Indore,06:00AM to 24:00PM
+552,"Lad, Muni and Balan",Delhi,06:00AM to 22:00PM
+553,Basak Inc,Lucknow,07:00AM to 22:00PM
+554,Solanki-Uppal,Kolkata,08:00AM to 24:00PM
+555,"Tank, Samra and Bhandari",Bangalore,07:00AM to 22:00PM
+556,"Shankar, Parmer and Luthra",Daltonganj,06:00AM to 23:00PM
+557,Rama-Hari,Daltonganj,08:00AM to 22:00PM
+558,Soni-Mital,Kolkata,08:00AM to 21:00PM
+559,"Chakrabarti, Dhaliwal and Chandran",Mumbai,09:00AM to 21:00PM
+560,Pal Inc,Jaipur,08:00AM to 21:00PM
+561,"Padmanabhan, Cheema and Kari",Chennai,10:00AM to 24:00PM
+562,Bhasin Group,Chennai,06:00AM to 21:00PM
+563,Sabharwal Inc,Daltonganj,10:00AM to 22:00PM
+564,Baria-Kade,Pune,10:00AM to 21:00PM
+565,Gaba-Bakshi,Daltonganj,08:00AM to 22:00PM
+566,Krishnan-Sani,Lucknow,09:00AM to 23:00PM
+567,"Malhotra, Khosla and Soman",Jaipur,08:00AM to 23:00PM
+568,"Babu, Dara and Vasa",Ranchi,07:00AM to 21:00PM
+569,Suri-Jain,Jaipur,10:00AM to 22:00PM
+570,"Guha, Soni and Misra",Pune,10:00AM to 22:00PM
+571,Shan-Sengupta,Daltonganj,06:00AM to 21:00PM
+572,Misra-Chaudhari,Pune,08:00AM to 21:00PM
+573,"Dani, Srivastava and Vala",Delhi,07:00AM to 24:00PM
+574,Pant-Sant,Kolkata,08:00AM to 22:00PM
+575,Singh-Sangha,Delhi,06:00AM to 22:00PM
+576,Manda LLC,Ahmedabad,07:00AM to 21:00PM
+577,"Krishnan, Karpe and Ram",Daltonganj,10:00AM to 24:00PM
+578,"Dey, Sunder and Chauhan",Jaipur,06:00AM to 21:00PM
+579,Mitter-Ramakrishnan,Ranchi,07:00AM to 22:00PM
+580,"Basu, Madan and Bath",Ranchi,10:00AM to 24:00PM
+581,Prabhu-Sampath,Hyderabad,10:00AM to 23:00PM
+582,Srinivas-Narula,Indore,07:00AM to 22:00PM
+583,Lala-Garg,Hyderabad,10:00AM to 23:00PM
+584,Seshadri-Pradhan,Mumbai,07:00AM to 22:00PM
+585,Wali-Suri,Delhi,07:00AM to 23:00PM
+586,Kothari-Vaidya,Bangalore,09:00AM to 23:00PM
+587,"Subramanian, Mangat and Mukherjee",Ahmedabad,08:00AM to 22:00PM
+588,"Khare, Goswami and Bhat",Ahmedabad,09:00AM to 21:00PM
+589,Kade-Gaba,Indore,09:00AM to 24:00PM
+590,"Brar, Dara and Mistry",Delhi,08:00AM to 22:00PM
+591,Randhawa Ltd,Bangalore,09:00AM to 23:00PM
+592,Buch-Sharaf,Ranchi,07:00AM to 21:00PM
+593,Ahuja-Ray,Kolkata,10:00AM to 21:00PM
+594,Narayanan-Tripathi,Kolkata,06:00AM to 21:00PM
+595,"Issac, Bhatti and Chadha",Ranchi,08:00AM to 23:00PM
+596,"Bala, Varkey and Dugal",Bangalore,06:00AM to 22:00PM
+597,Chaudry PLC,Mumbai,08:00AM to 23:00PM
+598,Sandhu-Chokshi,Daltonganj,09:00AM to 24:00PM
+599,"Dalal, Sarkar and Taneja",Chennai,07:00AM to 23:00PM
+600,"Kale, Bhakta and Varghese",Bangalore,07:00AM to 24:00PM
+601,"Khatri, Chandran and Tata",Lucknow,06:00AM to 23:00PM
+602,Rajagopalan-Upadhyay,Pune,10:00AM to 21:00PM
+603,Rajagopal Group,Bangalore,09:00AM to 22:00PM
+604,Bawa Group,Ahmedabad,09:00AM to 23:00PM
+605,Thaman-Desai,Ahmedabad,08:00AM to 22:00PM
+606,"Varma, Raman and Halder",Jaipur,06:00AM to 21:00PM
+607,Sem-Nagy,Bangalore,09:00AM to 21:00PM
+608,"Jha, Bhattacharyya and Kakar",Daltonganj,06:00AM to 23:00PM
+609,Bal-Badami,Indore,10:00AM to 22:00PM
+610,"Ramachandran, Reddy and Jayaraman",Indore,09:00AM to 24:00PM
+611,Raval PLC,Delhi,10:00AM to 23:00PM
+612,"Palla, Hayre and Prabhakar",Pune,06:00AM to 22:00PM
+613,Bhatti PLC,Indore,08:00AM to 23:00PM
+614,"Master, Kant and Rege",Ahmedabad,08:00AM to 21:00PM
+615,"Sarkar, Grewal and Mani",Kolkata,07:00AM to 22:00PM
+616,"Gola, Chowdhury and Anne",Lucknow,10:00AM to 24:00PM
+617,Mander-Naidu,Indore,09:00AM to 22:00PM
+618,Narayan PLC,Ranchi,06:00AM to 21:00PM
+619,Khatri Group,Ranchi,10:00AM to 22:00PM
+620,Devan-Parmer,Daltonganj,10:00AM to 21:00PM
+621,"Patla, Koshy and Dube",Jaipur,10:00AM to 21:00PM
+622,Dugar PLC,Lucknow,10:00AM to 22:00PM
+623,"Sethi, Golla and Muni",Lucknow,09:00AM to 22:00PM
+624,Puri-Rout,Daltonganj,08:00AM to 23:00PM
+625,"Nadkarni, Lad and Baria",Pune,07:00AM to 24:00PM
+626,Bandi-Varghese,Mumbai,09:00AM to 24:00PM
+627,Dara and Sons,Kolkata,08:00AM to 24:00PM
+628,Nair-Rau,Indore,08:00AM to 23:00PM
+629,"Das, Ramesh and Parsa",Jaipur,09:00AM to 24:00PM
+630,Pandey LLC,Bangalore,09:00AM to 21:00PM
+631,"Ghosh, Grewal and Tata",Daltonganj,08:00AM to 22:00PM
+632,"Thakur, Sachdev and Merchant",Daltonganj,09:00AM to 22:00PM
+633,Bansal-Madan,Hyderabad,09:00AM to 23:00PM
+634,"Goel, Mukherjee and Chacko",Daltonganj,08:00AM to 22:00PM
+635,"Garg, Saini and Rao",Jaipur,07:00AM to 21:00PM
+636,Kade-Khosla,Bangalore,08:00AM to 23:00PM
+637,Mody-Gandhi,Chennai,10:00AM to 23:00PM
+638,"Srinivas, Naik and Tella",Jaipur,08:00AM to 24:00PM
+639,Ramaswamy LLC,Ranchi,06:00AM to 24:00PM
+640,Wadhwa-Sridhar,Bangalore,10:00AM to 22:00PM
+641,"Sarma, Lad and Dave",Delhi,09:00AM to 22:00PM
+642,Swamy Ltd,Delhi,10:00AM to 22:00PM
+643,"Divan, Modi and Subramaniam",Kolkata,09:00AM to 22:00PM
+644,"Tella, Sampath and Dhingra",Daltonganj,10:00AM to 22:00PM
+645,Gokhale PLC,Hyderabad,09:00AM to 23:00PM
+646,"Minhas, Goswami and Vasa",Bangalore,08:00AM to 22:00PM
+647,"Kadakia, Bala and Deshmukh",Jaipur,10:00AM to 21:00PM
+648,"Kalla, Pal and Dass",Ranchi,07:00AM to 21:00PM
+649,"Mandal, Balay and Sanghvi",Ranchi,09:00AM to 23:00PM
+650,Peri-Palla,Hyderabad,10:00AM to 23:00PM
+651,Dua Inc,Chennai,06:00AM to 22:00PM
+652,Desai-Narain,Chennai,06:00AM to 22:00PM
+653,"Jhaveri, Murty and Kalita",Hyderabad,08:00AM to 23:00PM
+654,"Chhabra, Ganguly and Lad",Hyderabad,10:00AM to 21:00PM
+655,Gandhi-Dewan,Jaipur,09:00AM to 23:00PM
+656,"Suri, Kota and Wali",Mumbai,07:00AM to 24:00PM
+657,Borra LLC,Indore,09:00AM to 21:00PM
+658,Bora-Mahal,Chennai,09:00AM to 23:00PM
+659,Shenoy Inc,Bangalore,07:00AM to 24:00PM
+660,"Dass, Pant and Seshadri",Pune,06:00AM to 21:00PM
+661,Gulati Inc,Hyderabad,07:00AM to 21:00PM
+662,"Kuruvilla, Chad and Goel",Ranchi,09:00AM to 22:00PM
+663,Palla-Padmanabhan,Pune,08:00AM to 24:00PM
+664,Jani LLC,Hyderabad,09:00AM to 23:00PM
+665,Chakraborty LLC,Jaipur,10:00AM to 21:00PM
+666,Gulati-Pandey,Ahmedabad,06:00AM to 21:00PM
+667,"Garg, Barman and Karan",Ahmedabad,10:00AM to 22:00PM
+668,"Dash, Murthy and Nigam",Lucknow,07:00AM to 24:00PM
+669,Yogi PLC,Daltonganj,08:00AM to 23:00PM
+670,Sekhon Inc,Mumbai,07:00AM to 22:00PM
+671,"Narayan, Muni and Talwar",Bangalore,07:00AM to 24:00PM
+672,Mutti PLC,Hyderabad,09:00AM to 22:00PM
+673,Upadhyay-Guha,Mumbai,09:00AM to 22:00PM
+674,Bala LLC,Jaipur,09:00AM to 22:00PM
+675,Sarkar-Borra,Pune,06:00AM to 21:00PM
+676,Chacko-Gandhi,Jaipur,07:00AM to 21:00PM
+677,"Ramanathan, Ranganathan and Bala",Ahmedabad,08:00AM to 22:00PM
+678,Dhar-Bhakta,Hyderabad,08:00AM to 23:00PM
+679,Sachdeva Inc,Delhi,09:00AM to 24:00PM
+680,"Varkey, Mallick and Thakur",Delhi,07:00AM to 24:00PM
+681,"Tata, Basak and Kalla",Bangalore,07:00AM to 21:00PM
+682,Dutta-Krishna,Ahmedabad,06:00AM to 24:00PM
+683,Karpe-Badami,Lucknow,09:00AM to 23:00PM
+684,"Sachdeva, Wason and Bhatti",Jaipur,10:00AM to 24:00PM
+685,Jha Group,Ahmedabad,06:00AM to 23:00PM
+686,Vala-Panchal,Daltonganj,10:00AM to 24:00PM
+687,"Raja, Wadhwa and Mittal",Indore,09:00AM to 22:00PM
+688,Batta-Deshmukh,Kolkata,07:00AM to 21:00PM
+689,"Parekh, Solanki and Iyer",Delhi,07:00AM to 22:00PM
+690,"Borah, Pingle and Keer",Kolkata,08:00AM to 21:00PM
+691,"Yogi, Pillay and Purohit",Lucknow,06:00AM to 21:00PM
+692,Kannan and Sons,Daltonganj,08:00AM to 21:00PM
+693,"Sibal, Varty and Date",Ahmedabad,09:00AM to 22:00PM
+694,Rao-Sehgal,Jaipur,09:00AM to 21:00PM
+695,Devi-Vora,Indore,10:00AM to 22:00PM
+696,Srinivasan-Chopra,Daltonganj,06:00AM to 24:00PM
+697,Nair-Mistry,Daltonganj,10:00AM to 22:00PM
+698,Jaggi-Rama,Mumbai,08:00AM to 22:00PM
+699,Bansal-Dey,Lucknow,07:00AM to 21:00PM
+700,Swaminathan-Sundaram,Delhi,10:00AM to 24:00PM
+701,Prabhu-Bera,Lucknow,08:00AM to 21:00PM
+702,Rama-Dugar,Daltonganj,10:00AM to 22:00PM
+703,Chopra LLC,Kolkata,10:00AM to 23:00PM
+704,Dhawan-Ghosh,Lucknow,08:00AM to 23:00PM
+705,Ghosh Inc,Ranchi,06:00AM to 24:00PM
+706,"Tella, Bhattacharyya and Patla",Ranchi,07:00AM to 22:00PM
+707,Chad-Mukhopadhyay,Bangalore,07:00AM to 24:00PM
+708,Shah and Sons,Kolkata,06:00AM to 22:00PM
+709,Kala-Handa,Pune,07:00AM to 21:00PM
+710,Bakshi Group,Lucknow,07:00AM to 24:00PM
+711,"Memon, Pandit and Bava",Lucknow,08:00AM to 24:00PM
+712,Kumer-Patla,Bangalore,06:00AM to 24:00PM
+713,"Mitra, Gulati and Sinha",Kolkata,06:00AM to 21:00PM
+714,Mani Ltd,Pune,10:00AM to 22:00PM
+715,Dugar Ltd,Lucknow,08:00AM to 23:00PM
+716,Char Ltd,Kolkata,07:00AM to 23:00PM
+717,Zacharia Inc,Ahmedabad,06:00AM to 21:00PM
+718,Bala-Dey,Chennai,06:00AM to 24:00PM
+719,Amble-Handa,Bangalore,07:00AM to 23:00PM
+720,"Sen, Sule and Raju",Chennai,08:00AM to 23:00PM
+721,"Bahl, Sundaram and Kurian",Pune,09:00AM to 22:00PM
+722,"Balay, Vig and Munshi",Pune,08:00AM to 22:00PM
+723,Panchal PLC,Delhi,08:00AM to 22:00PM
+724,Dua Group,Mumbai,09:00AM to 23:00PM
+725,"Devi, Sankar and Baria",Ranchi,09:00AM to 22:00PM
+726,"Bansal, Sampath and Agate",Daltonganj,08:00AM to 23:00PM
+727,"Karpe, Setty and Nagar",Chennai,06:00AM to 23:00PM
+728,Kanda-Borra,Bangalore,07:00AM to 21:00PM
+729,Khurana-Chaudhary,Pune,10:00AM to 21:00PM
+730,Chaudry Group,Lucknow,09:00AM to 23:00PM
+731,Dube-Goel,Ahmedabad,10:00AM to 21:00PM
+732,"Dhaliwal, Soni and Suri",Hyderabad,06:00AM to 24:00PM
+733,Srinivasan PLC,Pune,09:00AM to 21:00PM
+734,Behl LLC,Kolkata,10:00AM to 24:00PM
+735,Master-Bhatia,Hyderabad,09:00AM to 24:00PM
+736,"Luthra, Viswanathan and Uppal",Hyderabad,06:00AM to 24:00PM
+737,Kapoor-Kaul,Lucknow,09:00AM to 22:00PM
+738,Om-Pingle,Pune,09:00AM to 23:00PM
+739,"Aggarwal, Bhagat and Lad",Hyderabad,06:00AM to 23:00PM
+740,Mukhopadhyay Ltd,Daltonganj,07:00AM to 23:00PM
+741,"Sandhu, Jani and Acharya",Chennai,09:00AM to 21:00PM
+742,"Dey, Naik and Sarin",Kolkata,10:00AM to 21:00PM
+743,Banerjee LLC,Chennai,07:00AM to 23:00PM
+744,Narula Inc,Ranchi,08:00AM to 24:00PM
+745,"Goswami, Sheth and Kalita",Pune,09:00AM to 23:00PM
+746,Sane LLC,Daltonganj,06:00AM to 21:00PM
+747,Bhatti PLC,Chennai,09:00AM to 23:00PM
+748,Chatterjee-Kar,Chennai,06:00AM to 21:00PM
+749,Deep PLC,Chennai,06:00AM to 23:00PM
+750,Singh PLC,Delhi,10:00AM to 21:00PM
+751,"Ben, Lad and Mohanty",Delhi,08:00AM to 24:00PM
+752,"Mohan, Gera and Mani",Lucknow,10:00AM to 22:00PM
+753,"Divan, Bajwa and Bhakta",Chennai,07:00AM to 23:00PM
+754,Bhandari PLC,Bangalore,07:00AM to 21:00PM
+755,"Reddy, Singhal and Lal",Delhi,10:00AM to 23:00PM
+756,"Pandey, Rajagopal and Varty",Mumbai,09:00AM to 24:00PM
+757,Grewal PLC,Kolkata,06:00AM to 23:00PM
+758,Walla-Dada,Hyderabad,09:00AM to 22:00PM
+759,Karpe-Varma,Delhi,06:00AM to 21:00PM
+760,Biswas-Yogi,Kolkata,10:00AM to 24:00PM
+761,"Khurana, Saxena and Gade",Indore,06:00AM to 21:00PM
+762,Nadig Group,Indore,06:00AM to 21:00PM
+763,Chokshi Group,Indore,09:00AM to 23:00PM
+764,Devan LLC,Ranchi,08:00AM to 24:00PM
+765,"Datta, Wali and Grewal",Hyderabad,09:00AM to 22:00PM
+766,Parikh-Mammen,Pune,10:00AM to 22:00PM
+767,"Iyengar, Murthy and Dewan",Jaipur,07:00AM to 21:00PM
+768,Wali-Ravi,Lucknow,07:00AM to 24:00PM
+769,Thakkar Ltd,Chennai,08:00AM to 21:00PM
+770,"Verma, Walia and Warrior",Jaipur,10:00AM to 23:00PM
+771,"Deo, Narayan and Mahal",Pune,08:00AM to 22:00PM
+772,Samra-Zacharia,Indore,07:00AM to 23:00PM
+773,Sibal-Bal,Indore,08:00AM to 21:00PM
+774,Hans Group,Chennai,08:00AM to 24:00PM
+775,Kaul LLC,Hyderabad,06:00AM to 23:00PM
+776,"Chandran, Manda and More",Delhi,10:00AM to 24:00PM
+777,Dutt Group,Mumbai,06:00AM to 23:00PM
+778,Nayak-Lalla,Ranchi,09:00AM to 24:00PM
+779,"Dutt, Mann and Sharma",Ahmedabad,09:00AM to 21:00PM
+780,"Uppal, Sangha and Merchant",Daltonganj,09:00AM to 22:00PM
+781,Salvi Ltd,Ranchi,07:00AM to 24:00PM
+782,"Maharaj, Andra and Lal",Indore,09:00AM to 23:00PM
+783,"Kata, Dash and Mammen",Ranchi,07:00AM to 21:00PM
+784,"Sibal, Golla and Nagarajan",Daltonganj,08:00AM to 21:00PM
+785,"Sami, Sanghvi and Vyas",Daltonganj,09:00AM to 23:00PM
+786,Deep-Dara,Lucknow,08:00AM to 23:00PM
+787,"Kaul, Shetty and Parmer",Delhi,07:00AM to 22:00PM
+788,"Subramaniam, Chaudhari and Bains",Kolkata,06:00AM to 21:00PM
+789,"Bava, Narayan and Kaur",Ahmedabad,06:00AM to 24:00PM
+790,Sami LLC,Pune,09:00AM to 21:00PM
+791,More-Varughese,Indore,08:00AM to 22:00PM
+792,Chaudhary-Wali,Lucknow,10:00AM to 22:00PM
+793,Dugal PLC,Hyderabad,10:00AM to 22:00PM
+794,Om-Som,Kolkata,09:00AM to 23:00PM
+795,Luthra Ltd,Lucknow,10:00AM to 24:00PM
+796,Dash Inc,Bangalore,06:00AM to 23:00PM
+797,Narasimhan Ltd,Daltonganj,10:00AM to 22:00PM
+798,"Loke, Madan and Chana",Pune,08:00AM to 23:00PM
+799,"Sachdev, Jayaraman and Hora",Daltonganj,10:00AM to 23:00PM
+800,Chaudhary Group,Indore,08:00AM to 21:00PM
+801,"Shenoy, Dani and Babu",Mumbai,09:00AM to 21:00PM
+802,"Mammen, Chhabra and Thaman",Mumbai,08:00AM to 24:00PM
+803,Das LLC,Lucknow,08:00AM to 24:00PM
+804,Sinha Ltd,Pune,07:00AM to 22:00PM
+805,Sankar Inc,Lucknow,09:00AM to 24:00PM
+806,Sandal Group,Pune,07:00AM to 24:00PM
+807,Solanki Inc,Lucknow,06:00AM to 24:00PM
+808,"Bava, Chahal and Som",Ahmedabad,06:00AM to 23:00PM
+809,Maharaj and Sons,Ranchi,10:00AM to 22:00PM
+810,"Bassi, Dewan and Sabharwal",Ahmedabad,07:00AM to 24:00PM
+811,Date-Chad,Bangalore,10:00AM to 21:00PM
+812,Devan-D’Alia,Jaipur,07:00AM to 22:00PM
+813,"Sampath, Gulati and Borde",Bangalore,08:00AM to 23:00PM
+814,Kakar-Batta,Kolkata,10:00AM to 24:00PM
+815,Tailor Inc,Ahmedabad,06:00AM to 24:00PM
+816,Prakash-Pradhan,Jaipur,08:00AM to 23:00PM
+817,"Kumar, Sampath and Kala",Indore,06:00AM to 23:00PM
+818,Balan-Patel,Ahmedabad,10:00AM to 23:00PM
+819,Rajan Inc,Ranchi,10:00AM to 21:00PM
+820,Chakraborty-Parsa,Ranchi,09:00AM to 22:00PM
+821,"Mani, Nigam and Pai",Hyderabad,08:00AM to 22:00PM
+822,"Chawla, Natarajan and Khanna",Indore,06:00AM to 22:00PM
+823,Dua Ltd,Ranchi,10:00AM to 24:00PM
+824,Rattan and Sons,Jaipur,08:00AM to 21:00PM
+825,Dey LLC,Kolkata,07:00AM to 24:00PM
+826,Boase LLC,Indore,10:00AM to 23:00PM
+827,"Nair, Sathe and Balan",Bangalore,06:00AM to 23:00PM
+828,Guha-Bali,Delhi,07:00AM to 23:00PM
+829,Varty PLC,Pune,09:00AM to 21:00PM
+830,Mital LLC,Delhi,06:00AM to 21:00PM
+831,Bahri PLC,Ranchi,09:00AM to 24:00PM
+832,Sagar-Dugar,Kolkata,10:00AM to 21:00PM
+833,Mammen-Char,Mumbai,10:00AM to 21:00PM
+834,"Dube, Keer and Mitra",Chennai,06:00AM to 23:00PM
+835,Nadig Ltd,Chennai,09:00AM to 23:00PM
+836,Pathak-Naidu,Mumbai,09:00AM to 22:00PM
+837,Sawhney-Keer,Bangalore,10:00AM to 22:00PM
+838,"Narula, Padmanabhan and Nadkarni",Lucknow,06:00AM to 23:00PM
+839,Natt and Sons,Chennai,08:00AM to 22:00PM
+840,"Patla, Arora and Manda",Lucknow,10:00AM to 22:00PM
+841,"Bhatia, Sarraf and Memon",Mumbai,10:00AM to 22:00PM
+842,"Handa, Randhawa and Singh",Kolkata,09:00AM to 23:00PM
+843,Ratta PLC,Pune,06:00AM to 24:00PM
+844,"More, Palan and Seth",Pune,08:00AM to 21:00PM
+845,Bakshi-Mandal,Mumbai,09:00AM to 22:00PM
+846,"Wason, Sarna and Hans",Ranchi,10:00AM to 22:00PM
+847,Shenoy PLC,Ranchi,08:00AM to 22:00PM
+848,Rajan-Dara,Ahmedabad,08:00AM to 23:00PM
+849,"Ghosh, Warrior and Panchal",Ahmedabad,10:00AM to 22:00PM
+850,Dani-Grewal,Kolkata,10:00AM to 24:00PM
+851,Prashad-Panchal,Chennai,09:00AM to 22:00PM
+852,Jaggi-Sen,Chennai,06:00AM to 22:00PM
+853,"Pandya, Menon and Date",Bangalore,07:00AM to 23:00PM
+854,Khurana Ltd,Hyderabad,09:00AM to 23:00PM
+855,"D’Alia, Dhawan and Grover",Mumbai,07:00AM to 21:00PM
+856,Kannan-Ganesh,Indore,07:00AM to 22:00PM
+857,"Batta, Ray and Bajwa",Lucknow,09:00AM to 22:00PM
+858,Baral PLC,Daltonganj,08:00AM to 21:00PM
+859,"Bhandari, Krishnamurthy and Sami",Delhi,07:00AM to 21:00PM
+860,Doctor and Sons,Mumbai,10:00AM to 22:00PM
+861,Kala Group,Hyderabad,06:00AM to 24:00PM
+862,Saha PLC,Hyderabad,06:00AM to 23:00PM
+863,Bhandari-Chaudhry,Chennai,08:00AM to 22:00PM
+864,"Natarajan, Suresh and Dhillon",Ranchi,06:00AM to 22:00PM
+865,Halder Inc,Lucknow,06:00AM to 22:00PM
+866,Brahmbhatt-Chowdhury,Chennai,06:00AM to 21:00PM
+867,Pant and Sons,Pune,06:00AM to 23:00PM
+868,Dutt-Sandhu,Pune,10:00AM to 24:00PM
+869,Chad-Buch,Kolkata,07:00AM to 22:00PM
+870,Morar-Buch,Chennai,10:00AM to 23:00PM
+871,"Gour, Pall and Bobal",Pune,10:00AM to 24:00PM
+872,Lad Inc,Daltonganj,06:00AM to 22:00PM
+873,Lad PLC,Daltonganj,08:00AM to 23:00PM
+874,Raghavan-Dhar,Daltonganj,09:00AM to 21:00PM
+875,"Dada, Choudhary and Dora",Hyderabad,07:00AM to 23:00PM
+876,Dalal Inc,Lucknow,10:00AM to 23:00PM
+877,"Balay, Basak and Pall",Kolkata,07:00AM to 21:00PM
+878,"Bahri, Sankaran and Kala",Lucknow,08:00AM to 22:00PM
+879,"Gera, Wable and Palla",Hyderabad,06:00AM to 21:00PM
+880,"Korpal, Choudhury and Arora",Hyderabad,08:00AM to 22:00PM
+881,Natt-Gupta,Mumbai,08:00AM to 24:00PM
+882,Khanna-Narula,Indore,08:00AM to 24:00PM
+883,Sankaran-Rao,Indore,07:00AM to 21:00PM
+884,Batta-Sachar,Kolkata,07:00AM to 23:00PM
+885,Dar Ltd,Mumbai,10:00AM to 22:00PM
+886,Dugar-Acharya,Bangalore,08:00AM to 21:00PM
+887,Talwar-Dhillon,Lucknow,06:00AM to 21:00PM
+888,Mandal-Merchant,Jaipur,10:00AM to 24:00PM
+889,Deep PLC,Hyderabad,08:00AM to 22:00PM
+890,"Gill, Dhaliwal and Edwin",Pune,09:00AM to 21:00PM
+891,Sridhar PLC,Hyderabad,06:00AM to 23:00PM
+892,Lala-Varty,Bangalore,07:00AM to 23:00PM
+893,Jhaveri-Garg,Bangalore,07:00AM to 21:00PM
+894,"Puri, Sastry and Mutti",Bangalore,08:00AM to 22:00PM
+895,Grover LLC,Ahmedabad,08:00AM to 23:00PM
+896,Agarwal Inc,Mumbai,06:00AM to 24:00PM
+897,Varty Inc,Ahmedabad,06:00AM to 22:00PM
+898,Balan LLC,Chennai,07:00AM to 22:00PM
+899,"Lalla, Lad and Dara",Indore,10:00AM to 24:00PM
+900,Agrawal-Gandhi,Pune,06:00AM to 24:00PM
+901,Char Inc,Bangalore,06:00AM to 21:00PM
+902,"Kamdar, Gole and Bhagat",Indore,10:00AM to 21:00PM
+903,"Krish, Jani and Taneja",Lucknow,09:00AM to 22:00PM
+904,Vohra-Nagy,Jaipur,07:00AM to 24:00PM
+905,"Lad, Vohra and Shukla",Pune,08:00AM to 22:00PM
+906,Bhattacharyya-Sampath,Delhi,08:00AM to 21:00PM
+907,"Bumb, Walia and Hari",Ahmedabad,06:00AM to 24:00PM
+908,Sane Group,Daltonganj,09:00AM to 23:00PM
+909,Munshi and Sons,Bangalore,06:00AM to 22:00PM
+910,Patil-Mitter,Pune,07:00AM to 22:00PM
+911,Mitra PLC,Bangalore,10:00AM to 24:00PM
+912,Date PLC,Ranchi,09:00AM to 21:00PM
+913,Mitra-Subramanian,Lucknow,06:00AM to 22:00PM
+914,Yohannan-Chadha,Kolkata,09:00AM to 21:00PM
+915,"Johal, Mall and Iyer",Mumbai,06:00AM to 21:00PM
+916,"Saran, Anne and Ranganathan",Daltonganj,10:00AM to 23:00PM
+917,Naidu-Agarwal,Kolkata,06:00AM to 24:00PM
+918,Iyengar-Chandra,Hyderabad,08:00AM to 23:00PM
+919,"Nadig, Sheth and Gala",Pune,09:00AM to 23:00PM
+920,"Pai, Narayan and Ravi",Chennai,09:00AM to 21:00PM
+921,"Das, Dass and Arya",Delhi,06:00AM to 21:00PM
+922,"Sant, Ramachandran and Bhatt",Jaipur,08:00AM to 23:00PM
+923,"Menon, Aggarwal and Jhaveri",Bangalore,07:00AM to 23:00PM
+924,Desai-Chanda,Lucknow,08:00AM to 24:00PM
+925,Bhavsar-Dhar,Mumbai,09:00AM to 23:00PM
+926,"Sridhar, Bava and Chad",Pune,06:00AM to 21:00PM
+927,Acharya Inc,Ranchi,06:00AM to 21:00PM
+928,Lad-Sarraf,Lucknow,06:00AM to 23:00PM
+929,Jayaraman Inc,Ranchi,06:00AM to 21:00PM
+930,Singhal-Bumb,Ahmedabad,06:00AM to 23:00PM
+931,"Balakrishnan, Wadhwa and Chander",Jaipur,10:00AM to 23:00PM
+932,"Gupta, Sharaf and Murthy",Kolkata,10:00AM to 24:00PM
+933,"Gola, Palla and Guha",Delhi,10:00AM to 22:00PM
+934,"Memon, Maharaj and Amble",Delhi,09:00AM to 22:00PM
+935,"Dhillon, Mishra and Magar",Lucknow,10:00AM to 24:00PM
+936,"Kothari, Kumar and Soni",Daltonganj,06:00AM to 22:00PM
+937,"Din, D’Alia and Roy",Ahmedabad,07:00AM to 21:00PM
+938,"Kala, Varughese and Kadakia",Daltonganj,10:00AM to 21:00PM
+939,"Balasubramanian, Ramaswamy and Gade",Chennai,08:00AM to 21:00PM
+940,"Keer, Devan and Bhalla",Ranchi,09:00AM to 23:00PM
+941,Vora-Lanka,Kolkata,07:00AM to 21:00PM
+942,Taneja and Sons,Lucknow,06:00AM to 21:00PM
+943,Ahuja-Bora,Daltonganj,06:00AM to 24:00PM
+944,Ram Ltd,Mumbai,08:00AM to 23:00PM
+945,Doshi-Kannan,Ahmedabad,08:00AM to 21:00PM
+946,Devan PLC,Bangalore,09:00AM to 24:00PM
+947,"Kade, Dhaliwal and Ratti",Mumbai,06:00AM to 23:00PM
+948,"Chatterjee, Sem and Babu",Bangalore,10:00AM to 24:00PM
+949,Karan PLC,Hyderabad,07:00AM to 24:00PM
+950,"Thaker, Subramaniam and Chaudry",Mumbai,09:00AM to 23:00PM
+951,Toor Ltd,Ahmedabad,08:00AM to 22:00PM
+952,"Das, Oza and Koshy",Daltonganj,10:00AM to 22:00PM
+953,Deshpande Group,Daltonganj,09:00AM to 24:00PM
+954,Pingle-Dixit,Jaipur,09:00AM to 22:00PM
+955,Iyengar Ltd,Kolkata,08:00AM to 22:00PM
+956,Khanna-Buch,Bangalore,09:00AM to 21:00PM
+957,"Bhandari, Seshadri and Murty",Bangalore,08:00AM to 24:00PM
+958,Karpe-Dora,Ranchi,06:00AM to 23:00PM
+959,Pillay and Sons,Ranchi,08:00AM to 21:00PM
+960,Ramesh Group,Mumbai,09:00AM to 24:00PM
+961,Sanghvi LLC,Pune,10:00AM to 23:00PM
+962,Kakar-Raghavan,Indore,08:00AM to 21:00PM
+963,Raghavan-Gara,Lucknow,06:00AM to 22:00PM
+964,Dubey-Bhakta,Mumbai,08:00AM to 21:00PM
+965,Madan LLC,Jaipur,07:00AM to 23:00PM
+966,"Gala, Bhardwaj and Kanda",Ahmedabad,07:00AM to 24:00PM
+967,"Sandal, Tailor and Dey",Daltonganj,06:00AM to 21:00PM
+968,"Narula, Garg and Bhattacharyya",Jaipur,07:00AM to 21:00PM
+969,Choudhary-Deo,Pune,06:00AM to 22:00PM
+970,"Kala, Mangal and Nair",Indore,09:00AM to 23:00PM
+971,Tandon-Murthy,Hyderabad,09:00AM to 23:00PM
+972,Muni Inc,Indore,06:00AM to 22:00PM
+973,Mallick Inc,Kolkata,07:00AM to 24:00PM
+974,"Karpe, Kurian and Cherian",Hyderabad,07:00AM to 23:00PM
+975,"Sawhney, Ramanathan and Mani",Jaipur,08:00AM to 21:00PM
+976,"Oza, Memon and Bansal",Indore,09:00AM to 23:00PM
+977,"Bera, Saraf and Pillai",Indore,06:00AM to 22:00PM
+978,Walia Inc,Jaipur,09:00AM to 24:00PM
+979,"Sama, Gulati and Rastogi",Ranchi,06:00AM to 23:00PM
+980,Rajagopal Group,Kolkata,08:00AM to 24:00PM
+981,Kari and Sons,Indore,09:00AM to 24:00PM
+982,Rout LLC,Hyderabad,09:00AM to 22:00PM
+983,"Saxena, Bhatt and Pathak",Chennai,07:00AM to 21:00PM
+984,Kibe-Thaman,Pune,08:00AM to 22:00PM
+985,Lalla-Sheth,Jaipur,09:00AM to 24:00PM
+986,Kibe-Varty,Mumbai,07:00AM to 21:00PM
+987,Bakshi-Saraf,Kolkata,08:00AM to 23:00PM
+988,Nanda-Krish,Bangalore,08:00AM to 23:00PM
+989,Tandon-Saran,Daltonganj,08:00AM to 23:00PM
+990,"Narayan, Nayar and Bhakta",Kolkata,10:00AM to 22:00PM
+991,Virk-Manda,Hyderabad,06:00AM to 24:00PM
+992,"Wason, Bains and Varughese",Mumbai,06:00AM to 21:00PM
+993,Sahota Ltd,Hyderabad,10:00AM to 21:00PM
+994,Venkatesh-Kannan,Pune,06:00AM to 21:00PM
+995,Misra LLC,Ranchi,10:00AM to 23:00PM
+996,"Bhargava, Kala and Sekhon",Chennai,07:00AM to 23:00PM
+997,Basak-Aurora,Lucknow,09:00AM to 23:00PM
+998,"Tiwari, Golla and Seshadri",Kolkata,09:00AM to 23:00PM
+999,Agarwal-Dewan,Jaipur,08:00AM to 24:00PM
+1000,Raju-Virk,Pune,07:00AM to 24:00PM
