@@ -9,6 +9,7 @@ This Excel dashboard analyzes restaurant sales data and provides insights into s
 - Pivot Charts
 - Slicers
 - KPI Cards
+- VLOOPUP's
 
 ## Key Insights
 - Total Sales
